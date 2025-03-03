@@ -1,0 +1,184 @@
+Year,Paper number,QN,Type,Type 2,score,difficulty
+2018,8MA0,Q1,Integration,,4,Easy
+2018,8MA0,Q2,inequality,,5,Medium
+2018,8MA0,Q3,coordinate geometry&vector,,5,Easy
+2018,8MA0,Q4,coordinate geometry&vector,,4,Easy
+2018,8MA0,Q5,Exponents and Logarithms,,5,Medium
+2018,8MA0,Q6,Polynomials,,7,Medium
+2018,8MA0,Q7,Trigonometry,,6,Medium
+2018,8MA0,Q8,Differentiation,,9,Medium
+2018,8MA0,Q9,Polynomials,,9,Medium
+2018,8MA0,Q10,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,4,High
+2018,8MA0,Q11,Polynomials,,8,High
+2018,8MA0,Q12,Trigonometry,,8,High
+2018,8MA0,Q13,Exponents and Logarithms,,8,High
+2018,8MA0,Q14,coordinate geometry&vector,,9,High
+2018,8MA0,Q15,Differentiation,Integration,10,High
+2018,9MA0,Q1,Trigonometry,,3,Easy
+2018,9MA0,Q2,Differentiation,,7,Easy
+2018,9MA0,Q3,Trigonometry,,4,Easy
+2018,9MA0,Q4,Exponents and Logarithms,,4,Medium
+2018,9MA0,Q5,Trigonometry,,5,Medium
+2018,9MA0,Q6,coordinate geometry&vector,,10,Medium
+2018,9MA0,Q7,Integration,,7,Medium
+2018,9MA0,Q8,Trigonometry,,5,Medium
+2018,9MA0,Q9,Differentiation,coordinate geometry&vector,10,Medium
+2018,9MA0,Q10,Differentiation,Trigonometry,8,High
+2018,9MA0,Q11,Polynomials,Exponents and Logarithms,10,High
+2018,9MA0,Q12,Exponents and Logarithms,,10,High
+2018,9MA0,Q13,Integration,,7,High
+2018,9MA0,Q14,coordinate geometry&vector,,10,High
+2019,8MA0,Q1,coordinate geometry&vector,,4,Easy
+2019,8MA0,Q2,Polynomials,,8,Medium
+2019,8MA0,Q3,Integration,,6,Easy
+2019,8MA0,Q4,coordinate geometry&vector,,5,Medium
+2019,8MA0,Q5,Differentiation,,5,Medium
+2019,8MA0,Q6,Trigonometry,,6,Medium
+2019,8MA0,Q7,coordinate geometry&vector,,8,Medium
+2019,8MA0,Q8,Polynomials,,5,Medium
+2019,8MA0,Q9,Exponents and Logarithms,,6,Medium
+2019,8MA0,Q10,coordinate geometry&vector,,5,High
+2019,8MA0,Q11,Polynomials,,10,High
+2019,8MA0,Q12,Trigonometry,,7,High
+2019,8MA0,Q13,Differentiation,Integration,7,Medium
+2019,8MA0,Q14,Exponents and Logarithms,,9,Medium
+2019,8MA0,Q15,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,4,High
+2019,8MA0,Q16,coordinate geometry&vector,,5,High
+2019,9MA0,Q1,Polynomials,,3,Easy
+2019,9MA0,Q2,Trigonometry,,5,Medium
+2019,9MA0,Q3,Differentiation,,5,Medium
+2019,9MA0,Q4,Exponents and Logarithms,,6,Medium
+2019,9MA0,Q5,Polynomials,Differentiation,10,Medium
+2019,9MA0,Q6,Trigonometry,,8,Medium
+2019,9MA0,Q7,Exponents and Logarithms,,7,Medium
+2019,9MA0,Q8,Integration,Polynomials,10,Medium
+2019,9MA0,Q9,Exponents and Logarithms,,5,Medium
+2019,9MA0,Q10,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,6,High
+2019,9MA0,Q11,Exponents and Logarithms,,7,High
+2019,9MA0,Q12,Differentiation,Trigonometry,10,High
+2019,9MA0,Q13,Integration,Exponents and Logarithms,11,High
+2019,9MA0,Q14,Differentiation,Trigonometry,7,High
+2020,8MA0,Q1,Differentiation,,5,Easy
+2020,8MA0,Q2,coordinate geometry&vector,,6,Easy
+2020,8MA0,Q3(i),Polynomials,,3,Easy
+2020,8MA0,Q3(ii),Exponents and Logarithms,,3,Medium
+2020,8MA0,Q4,coordinate geometry&vector,,6,Medium
+2020,8MA0,Q5,Trigonometry,,6,Medium
+2020,8MA0,Q6,Polynomials,,6,Medium
+2020,8MA0,Q7,Integration,,8,High
+2020,8MA0,Q8,Polynomials,,9,High
+2020,8MA0,Q9,Trigonometry,,8,Medium
+2020,8MA0,Q10,Polynomials,Integration,10,High
+2020,8MA0,Q11,coordinate geometry&vector,,9,Medium
+2020,8MA0,Q12,Exponents and Logarithms,,7,Medium
+2020,8MA0,Q13,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,5,Medium
+2020,8MA0,Q14,Differentiation,,9,High
+2020,9MA0,Q1,Exponents and Logarithms,,5,Easy
+2020,9MA0,Q2,Exponents and Logarithms,,3,Easy
+2020,9MA0,Q3,coordinate geometry&vector,,4,Medium
+2020,9MA0,Q4,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,5,Medium
+2020,9MA0,Q5,Exponents and Logarithms,,6,Medium
+2020,9MA0,Q6,Trigonometry,,7,Medium
+2020,9MA0,Q7,Polynomials,,5,High
+2020,9MA0,Q8,Exponents and Logarithms,,2,High
+2020,9MA0,Q9,Differentiation,,9,High
+2020,9MA0,Q10,Integration,,10,High
+2020,9MA0,Q11,coordinate geometry&vector,,8,High
+2020,9MA0,Q12,Trigonometry,,8,High
+2020,9MA0,Q13,Exponents and Logarithms,,7,High
+2020,9MA0,Q14,Integration,,10,High
+2020,9MA0,Q15,Differentiation,,7,High
+2020,9MA0,Q16,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,4,High
+2021,8MA0,Q1,Polynomials,,3,Easy
+2021,8MA0,Q2,Exponents and Logarithms,,3,High
+2021,8MA0,Q3,Integration,,4,Medium
+2021,8MA0,Q4,coordinate geometry&vector,,5,Medium
+2021,8MA0,Q5,Differentiation,,6,Medium
+2021,8MA0,Q6,Polynomials,,6,Medium
+2021,8MA0,Q7,Trigonometry,,5,High
+2021,8MA0,Q8,Exponents and Logarithms,,7,Medium
+2021,8MA0,Q9,Integration,,4,Easy
+2021,8MA0,Q10,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,5,Medium
+2021,8MA0,Q11,Exponents and Logarithms,,6,Medium
+2021,8MA0,Q12,Trigonometry,,9,Medium
+2021,8MA0,Q13,Exponents and Logarithms,,7,High
+2021,8MA0,Q14,Polynomials,Integration,10,Easy
+2021,8MA0,Q15,coordinate geometry&vector,,9,High
+2021,8MA0,Q16,Polynomials,,11,High
+2021,9MA0,Q1,Polynomials,,3,Easy
+2021,9MA0,Q2,Polynomials,,4,Easy
+2021,9MA0,Q3,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,6,Medium
+2021,9MA0,Q4,Differentiation,,9,High
+2021,9MA0,Q5,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,6,Medium
+2021,9MA0,Q6,coordinate geometry&vector,,5,Medium
+2021,9MA0,Q7,coordinate geometry&vector,,9,High
+2021,9MA0,Q8,Exponents and Logarithms,,9,High
+2021,9MA0,Q9,Exponents and Logarithms,,11,High
+2021,9MA0,Q10,Trigonometry,,8,High
+2021,9MA0,Q11,Integration,,8,Medium
+2021,9MA0,Q12,Polynomials,,9,High
+2021,9MA0,Q13,coordinate geometry&vector,,3,High
+2021,9MA0,Q14,Differentiation,,4,High
+2021,9MA0,Q15,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,6,High
+2022,8MA0,Q1,Integration,,4,Medium
+2022,8MA0,Q2,Polynomials,,7,Easy
+2022,8MA0,Q3,coordinate geometry&vector,,6,Medium
+2022,8MA0,Q4,coordinate geometry&vector,,6,Medium
+2022,8MA0,Q5,Exponents and Logarithms,,10,Medium
+2022,8MA0,Q6,Polynomials,,6,Easy
+2022,8MA0,Q7,Polynomials,,7,Medium
+2022,8MA0,Q8,Exponents and Logarithms,,6,Medium
+2022,8MA0,Q9,Exponents and Logarithms,,6,High
+2022,8MA0,Q10,Differentiation,,10,High
+2022,8MA0,Q11,coordinate geometry&vector,,8,High
+2022,8MA0,Q12,Differentiation,,12,High
+2022,8MA0,Q13,Trigonometry,,8,High
+2022,8MA0,Q14,inequality,,4,High
+2022,9MA0,Q1,Polynomials,,4,Easy
+2022,9MA0,Q2,Polynomials,,3,Easy
+2022,9MA0,Q3,coordinate geometry&vector,,5,Medium
+2022,9MA0,Q4,Integration,,3,Medium
+2022,9MA0,Q5,Exponents and Logarithms,,6,Medium
+2022,9MA0,Q6,Polynomials,,6,Medium
+2022,9MA0,Q7,inequality,,5,High
+2022,9MA0,Q8,Exponents and Logarithms,,8,High
+2022,9MA0,Q9,coordinate geometry&vector,,6,Medium
+2022,9MA0,Q10,Exponents and Logarithms,,8,High
+2022,9MA0,Q11,coordinate geometry&vector,,7,Medium
+2022,9MA0,Q12,Integration,,5,High
+2022,9MA0,Q13,Polynomials,,7,Medium
+2022,9MA0,Q14,Trigonometry,,8,High
+2022,9MA0,Q15,Differentiation,,10,High
+2022,9MA0,Q16,Integration,,9,High
+2023,8MA0,Q1,Differentiation,,6,Easy
+2023,8MA0,Q2,Polynomials,,4,Medium
+2023,8MA0,Q3,coordinate geometry&vector,,4,Medium
+2023,8MA0,Q4,Exponents and Logarithms,,5,Medium
+2023,8MA0,Q5,Integration,,5,Medium
+2023,8MA0,Q6,coordinate geometry&vector,,5,High
+2023,8MA0,Q7,coordinate geometry&vector,Differentiation,8,Medium
+2023,8MA0,Q8,Polynomials,,5,High
+2023,8MA0,Q9,Exponents and Logarithms,,5,High
+2023,8MA0,Q10,coordinate geometry&vector,,8,Medium
+2023,8MA0,Q11,Exponents and Logarithms,,6,Medium
+2023,8MA0,Q12,Exponents and Logarithms,,9,Medium
+2023,8MA0,Q13,coordinate geometry&vector,,7,Medium
+2023,8MA0,Q14,Polynomials,,5,Easy
+2023,8MA0,Q15,Polynomials,,7,High
+2023,8MA0,Q16,Differentiation,,6,Medium
+2023,8MA0,Q17,inequality,,5,Medium
+2023,9MA0,Q1,Integration,,4,Medium
+2023,9MA0,Q2,Polynomials,,6,Easy
+2023,9MA0,Q3,coordinate geometry&vector,,3,Easy
+2023,9MA0,Q4,Trigonometry,,5,Medium
+2023,9MA0,Q5,Integration,,6,Easy
+2023,9MA0,Q6,Exponents and Logarithms,,6,Medium
+2023,9MA0,Q7,Polynomials,,8,Medium
+2023,9MA0,Q8,coordinate geometry&vector,,10,Medium
+2023,9MA0,Q9,Polynomials,,7,Medium
+2023,9MA0,Q10,coordinate geometry&vector,,9,High
+2023,9MA0,Q11,Exponents and Logarithms,,7,High
+2023,9MA0,Q12,Differentiation,,5,Medium
+2023,9MA0,Q13,Trigonometry,,7,High
+2023,9MA0,Q14,"Proof / Reasoning / Written Explanations (Justifications, Inequality Counterexamples)",,4,Medium
+2023,9MA0,Q15,Exponents and Logarithms,,13,High
